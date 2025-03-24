@@ -18774,6 +18774,14 @@
     },
 
     {
+        "name": "RackNerd", 
+        "url": "https://my.racknerd.com/submitticket.php", 
+        "difficulty": "impossible", 
+        "notes": "Open a support ticket. However, submitting a ticket may result in your account being closed. Once closed, you will not be able to re-register using the same email address.", 
+        "domains": [ "racknerd.com" ] 
+    },
+
+    {
         "name": "radio.fr",
         "url": "https://www.radio.fr/#%2Fkonto_loeschen.jsf",
         "difficulty": "easy",
